@@ -1,0 +1,1 @@
+A Web app requires a user to enter task to be done and after it's completed,the user can remove it from the list.
